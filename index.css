@@ -14,13 +14,13 @@ body {
   padding: 2rem;
   border-radius: 12px;
   text-align: center;
-  width: 100%;
+  width: 90%;
   max-width: 320px;
 }
 
 .profile {
-  width: 100px;
-  height: 100px;
+  width: 90px;
+  height: 90px;
   border-radius: 50%;
   object-fit: cover;
   margin-bottom: 1rem;
